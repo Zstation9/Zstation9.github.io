@@ -2,21 +2,16 @@
 
 <channel>
 
-<title>Newz!</title>
-
-<description>teh latest newz!</description>
-
-<language>en-GB</language>
-
 <atom:link rel="self" type="application/rss+xml" href="https://zstation9.github.io/news.xml"/>
 
 <item>
 
-<title>zstation9 releases soon!</title>
+<title>guys you have to look at this</title>
 
 <description>
-<p>Rumors about the upcoming zstation9 release date has been speculated to release in 2029!</p>
+<![CDATA[ <img src="https://zstation9.github.io/Mii.png" /> <p>LOOK ITS MII ITS MIII!!!!!!</p> ]]>
 </description>
+<pubDate>Thu, 13 Feb 2025 12:00:00 +0100</pubDate>
 
 </item>
 </channel>
